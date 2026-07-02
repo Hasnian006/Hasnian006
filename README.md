@@ -59,11 +59,21 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="I'm a passionate MERN Stack Developer who loves building fast, responsive, and scalable web applications. Dedicated to writing clean code, solving real-world problems, and continuously improving my skills through hands-on projects and lifelong learning."><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Hasnain Riaz's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.youtube.com/@merncodingschool"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Hasnain Riaz's YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hasnain.riaz7491@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hasnain Riaz's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="."><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/3000756956"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="I'm a passionate MERN Stack Developer who loves building fast, responsive, and scalable web applications. Dedicated to writing clean code, solving real-world problems, and continuously improving my skills through hands-on projects and lifelong learning.">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/3000756956">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.youtube.com/@merncodingschool">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hasnain.riaz7491@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=".">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
 
 ## 💬 Quote
