@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="www.youtube.com/@merncodingschool">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+    
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hasnain.riaz7491@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
